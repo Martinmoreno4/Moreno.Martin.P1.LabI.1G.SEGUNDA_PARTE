@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1635552720 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataWarehouse.h"
+	"micro.h"
+	"viaje.h"
+
+1635537342 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\datawarehouse.h
+	"micro.h"
+	"viaje.h"
+	"destino.h"
+
+1635554249 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1635554190 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\destino.h
+
+1634945645 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+
+1634945645 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\empresa.h
+
+1634939976 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1634940335 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\fecha.h
+
+1635554524 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"biblioteca.h"
+	"dataWarehouse.h"
+	"destino.h"
+	"empresa.h"
+	"fecha.h"
+	"micro.h"
+	"tipo.h"
+	"viaje.h"
+	"chofer.h"
+
+1635553364 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\micro.h
+	"tipo.h"
+	"empresa.h"
+	"chofer.h"
+
+1634946809 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\tipo.h
+
+1635554550 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\viaje.h
+	"fecha.h"
+	"micro.h"
+	"destino.h"
+	"empresa.h"
+	"chofer.h"
+
+1635553951 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\micro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"micro.h"
+
+1634946809 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1635554499 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"viaje.h"
+	"destino.h"
+	"micro.h"
+
+1634941892 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1634941892 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\biblioteca.h
+
+1635549299 source:d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chofer.h"
+
+1635549848 d:\3°cuatri 2021\lab 1\primer parcial\1er parcial_martin moreno\chofer.h
+
